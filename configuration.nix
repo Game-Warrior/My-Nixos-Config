@@ -102,6 +102,7 @@
 	 zoom-us
 	 
     #Productivity 
+     mpv
      blender
      gimp
      onlyoffice-bin
