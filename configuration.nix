@@ -99,7 +99,7 @@
    #Internet
      brave
      librewolf
-	 zoom-us
+     zoom-us
 	 
     #Productivity 
      mpv
@@ -107,12 +107,13 @@
      gimp
      onlyoffice-bin
      libreoffice
+     cura
      
     #Gaming
      steam
      discord
      noisetorch
-	 lutris
+     lutris
 	 
      
     #Window Manager stuff
