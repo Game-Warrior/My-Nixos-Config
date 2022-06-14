@@ -85,6 +85,7 @@
      wget
      git
      btop
+     neofetch
 
    #Terminal emulator
      kitty
