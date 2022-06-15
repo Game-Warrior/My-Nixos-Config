@@ -100,6 +100,7 @@
    #Internet
      brave
      librewolf
+     firefox
      zoom-us
 	 
     #Productivity 
