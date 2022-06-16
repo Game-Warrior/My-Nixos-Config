@@ -99,6 +99,7 @@
     
    #Internet
      brave
+     chromium
      librewolf
      firefox
      zoom-us
