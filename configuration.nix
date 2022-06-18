@@ -86,6 +86,7 @@
      git
      btop
      neofetch
+     speedtest-cli
 
    #Terminal emulator
      kitty
