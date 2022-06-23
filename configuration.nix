@@ -87,6 +87,12 @@
      btop
      neofetch
      speedtest-cli
+   
+   #Terminal Shell
+     home-manager
+     bash
+     zsh
+     oh-my-zsh
 
    #Terminal emulator
      kitty
