@@ -110,6 +110,7 @@
      librewolf
      firefox
      zoom-us
+     thunderbird
 	 
     #Productivity 
      mpv
